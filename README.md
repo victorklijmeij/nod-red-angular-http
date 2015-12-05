@@ -3,13 +3,17 @@
 ## Prerequisites
 
 Node-red installed
+
 See http://nodered.org/docs/getting-started/
+
 With nodes, http, http response and template
 
 ## Install
 
-Open the flow and copy to clipboad
-Browse to http://<node-red ip>:<port> and select import --> clipboard
+Open the flow and copy to clipboard
+
+Browse to http://node-red-ip:port and select import --> clipboard
+
 Past the content and save (OK)
 
 Verify and deploy your angular flow
@@ -18,7 +22,7 @@ Verify and deploy your angular flow
 
 ## View 
 
-Browse to http://<node-red ip>:<port>/ui
+Browse to http://node-red-ip:port/ui
 
 
 ## Credits
